@@ -8,12 +8,7 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDquk1ryqEMPtXLuPCAQ9ZyLu68ZjSGg1k",
-  authDomain: "uber-eats-clone-e8c89.firebaseapp.com",
-  projectId: "uber-eats-clone-e8c89",
-  storageBucket: "uber-eats-clone-e8c89.appspot.com",
-  messagingSenderId: "784569616052",
-  appId: "1:784569616052:web:8e2a36529183f588c439e1"
+google api
 };
 
 
